@@ -9,7 +9,7 @@ class Headerbar extends React.Component {
       <div className="heading">
         <div className="container-fluid">
           <Navbar bg="light" expand="lg" fixed="top" >
-            <h2>GOKULRAM.</h2>
+            <h2>GOKULRAM.M</h2>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="ml-auto">
